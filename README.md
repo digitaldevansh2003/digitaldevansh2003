@@ -113,6 +113,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitaldevansh2003&show_icons=true&locale=en&layout=compact" alt="digitaldevansh2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitaldevansh2003&show_icons=true&locale=en" alt="digitaldevansh2003" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitaldevansh2003&" alt="digitaldevansh2003" /></p>
